@@ -1,0 +1,6 @@
+module Pods_taskbot_taskbotTests {
+  umbrella header "Pods-taskbot-taskbotTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
